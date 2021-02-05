@@ -11,19 +11,21 @@ The World Bank Global Program for Safer Schools is an initiative to improve scho
 
 Non-technical users need an easy way to collect surveying data on school buildings and submit this data to the World Bank Global Program. We have observed that the ArcGIS Survey123 survey tool is challenging to use, hard to read and understand, and discouraging to use, which is causing inaccurate data to be submitted, and fewer forms to be received.
 
-## USER INTERVIEW QUESTIONS
+## USER RESEARCH QUESTIONS
 1. Name, age, occupation
 2. Describe your experience filling out forms/questionnaires. Is there any time you had a frustrating or confusing time completing a form?
 3. If you have ever given up on filling out a form, why did you stop?
 4. How would you prefer to navigate lengthy forms on a mobile device? (i.e step through multiple pages, scroll through one long page, ect.)
 5. What motivates you to complete filling out a form?
 6. What is something useful or something you have liked while filling out a form?
-**For current version of the form**
-7.  What is your first impression of this survey?
-8. Did you have any trouble understanding any of the questions on the form
-9. Is there anything we can add to the question to make it more clear?
-10. Was the interface easy to understand?
-11. How easy or difficult did you find filling out this form?
+
+
+## CURRENT SURVEY QUESTIONS
+1.  What is your first impression of this survey?
+2. Did you have any trouble understanding any of the questions on the form
+3. Is there anything we can add to the question to make it more clear?
+4. Was the interface easy to understand?
+5. How easy or difficult did you find filling out this form?
 
 ### User Interview Results
 
