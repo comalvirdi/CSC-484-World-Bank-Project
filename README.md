@@ -26,7 +26,6 @@ Non-technical users need an easy way to collect surveying data on school buildin
 ### User Interview Results
 
 **Andrew Saxon**
-----------------
 
 Andrew Saxon is a 20 year old busboy and Math major at Cal Poly, SLO. Andrew is not a huge fan of filling out surveys but will do them when they are required or if a friend asks him to complete one. His biggest qualm with surveys is when they are too long or have a ton of pages to click through. He likes when forms have multiple choice questions and are all on one page.
 Upon looking at the survey on the mobile app, Andrew was initially confused why it was in Spanish and could not figure out how to change the language. While completing the survey, he wanted some example photos to help him get good angles. He did really like the error feature that allowed him to click through the errors one by one.
