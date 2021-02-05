@@ -64,4 +64,13 @@ Adrian was given the current form in-use by the World Bank and attempted to comp
 
 Krishna Nathani is 18 years old and a senior in high school. She does not like long forms that require a lot of text input and prefers having pre-selected options. When asked if she has ever given up on filling out a form and why she gave up, she says if a form feels too long but does not have a progress bar, she will stop. 
 
-Krishna was able to complete the survey but described it as unpleasant and challenging to use. She also felt negative about the interface and aesthetics of the survey. She disliked that font sizes did not differentiate questions and question descriptions. Krishna also disliked the background image and called it “distracting.” She also stated it would be easier if the surveys collapse feature was instead a “jump-to section” feature instead allowing for easier navigation. 
+Krishna was able to complete the survey but described it as unpleasant and challenging to use. She also felt negative about the interface and aesthetics of the survey. She disliked that font sizes did not differentiate questions and question descriptions. Krishna also disliked the background image and called it “distracting.” She also stated it would be easier if the surveys collapse feature was instead a “jump-to section” feature instead allowing for easier navigation.
+
+## Design Requirements
+
+* Mobile-compatible survey
+* Simplify questions
+* Improve existing answer formats
+* Language toggle
+* Design that falls within accessibility guidelines (W3C)
+
