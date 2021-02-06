@@ -25,7 +25,7 @@ Non-technical users need an easy way to collect surveying data on school buildin
 6. What is something useful or something you have liked while filling out a form?
 
 
-## CURRENT SURVEY QUESTIONS
+### Current Survey Questions
 1.  What is your first impression of this survey?
 2. Did you have any trouble understanding any of the questions on the form
 3. Is there anything we can add to the question to make it more clear?
