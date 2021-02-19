@@ -105,6 +105,28 @@ Krishna was able to complete the survey but described it as unpleasant and chall
 - How might we make the form design more intuitive?
 - How might we make the questions less subjective?
 
+### Contextual Scenarios
+
+Sara is an elementary school teacher in rural Guatemala whose goals are to teach her students English and keep them safe while at school. 
+
+While on her way to school, Sara commutes on a busy dirt road for 30 minutes. Once at school she begins organizing her desk and lesson plan for the day. An hour later her students begin to arrive and take their seats in an over crowded room. 
+
+Sara teaches for 2 hours and then the class takes a 30 minute break for lunch. During lunch the students are allowed to run around outside. Sarah watches them and makes sure no dangerous activity occurs. One of her students, Alex, scrapes his knee. Sarah cleans his knee and bandages it before returning to class for afternoon classes.
+
+After lunch, it begins raining and water soon begins dripping from the ceiling. Sara rushes to put a bucket to collect it but notices that the water damage is quite excessive throughout the ceiling. She realizes this may be a hazard for her students. The school is in a high rainfall area so the problem will continue to worsen if it is not fixed.
+Our new survey-tool app is intended for use on both mobile devices and desktop computers. It is not reliant on any other products.
+In order to successfully fill out any of the surveys, users must provide answers to fields marked as “required,” which may ask for information an outside source can provide. For example, Sara may need to ask a school administrator or principal for specific information when filling out the school safety survey with our tool. She will need to fill out various fields and supply answers to questions in order to submit the survey. 
+
+In order to successfully use our survey tool, Sara should be comfortable using a mobile phone and using mobile phone applications. The anticipated complexity of using our survey tool is low since users will directly respond with their answers to questions they see on the screen. 
+
+Imagine you are asked to show the structure of a room in your building. How would you capture the different aspects of a building through a few photos?
+
+### Wireframes and Sketches
+
+
+
+
+
 
 
 
