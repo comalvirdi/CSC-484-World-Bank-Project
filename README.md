@@ -133,6 +133,10 @@ Low-fidelity wireframe sketches and a mood board consisting of competitive analy
 
 [Link to Figma Here](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkSPZa9jUhjYr0hKn6XqKT1%2FSurvey-Mobile-Prototype%3Fnode-id%3D11%253A519)
 
+### Rationale for Prototype
+
+We are looking to learn about the different pain points that our users are struggling with in order to iterate back on the prototype based on the feedback we receive during testing.
+
 
 
 
