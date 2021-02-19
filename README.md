@@ -123,8 +123,14 @@ Imagine you are asked to show the structure of a room in your building. How woul
 
 ### Wireframes and Sketches
 
+Low-fidelity wireframe sketches and a mood board consisting of competitive analysis, fonts, and color palettes.
+
 <img src="img/moodBoard.png" width="600">
 <img src="img/Untitled_Artwork 31.png" width="600">
+
+
+### The Prototype
+[The Prototype](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkSPZa9jUhjYr0hKn6XqKT1%2FSurvey-Mobile-Prototype%3Fnode-id%3D11%253A519)
 
 
 
