@@ -123,7 +123,8 @@ Imagine you are asked to show the structure of a room in your building. How woul
 
 ### Wireframes and Sketches
 
-
+<img src="img/moodBoard.png">
+<img src="img/Untitled_Artwork 31.png">
 
 
 
