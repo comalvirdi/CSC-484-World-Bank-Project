@@ -90,27 +90,20 @@ Krishna was able to complete the survey but described it as unpleasant and chall
 
 ### How Might We Questions
 
-- How might we get more responses to the survey?
 - How might we ensure correct answers to the survey?
 - How might we ensure the survey is understandable across countries?
 - How might we get information about school structures?
 - How might we facilitate the collection of information from another country?
 - How might we facilitate the collection of information across different languages?
 - How might we make the survey consistent across platforms?
-- How might we ensure the survey can operate in areas with low bandwidth?
-- How might we ensure the survey can operate on older devices?
 - How might we communicate the level of detail needed in a response?
 - How might we ensure photo responses are completed in the correct way/angle?
-- How might we ensure the survey can be completed in a timely manner?
 - How might we account for things interrupting a surveyor mid-completion of the survey?
 - How might we group questions together to ensure a more cohesive flow throughout the survey?
 - How might we make the survey easy to navigate?
 - How might we ensure users understand what the questions are asking?
 - How might we make the form design more intuitive?
 - How might we make the questions less subjective?
-
-
-
 
 
 
