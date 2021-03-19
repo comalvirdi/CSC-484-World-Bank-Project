@@ -178,11 +178,41 @@ Based on our feedback from user tests and analyzing our detailed findings, we we
 
 During user testing, we uncovered a few challenges our users faced while using our prototype including error prevention, a shortage of a clear path of instructions, and examples for specific questions. During our latest iteration, we added a few new features to our prototype to help our users overcome some of these challenges. Previously, in the School Safety Survey, we asked users to upload a photo of the school, but our page lacked clarity since it did not provide an example or specific instructions on how to take the photo. In our next iteration, we added a sample photo to guide users. Our users also mentioned they were unsure if survey sections needed to be filled out in a specific order. As a result, another feature we added for clarity was fading a section’s tile color to show that it is “locked” until the previous section was completed to help the user understand the survey section order better. Our users also wanted us to improve error prevention to incase they automatically clicked the home button or back button on our survey by mistake, so we added an autosave notification to let them know their work was saved as a draft. A final change we made was adding in an estimated time to complete the survey for additional convenience to our users. The addition of the estimated time gives our users a sense of motivation if they know the survey’s approximate completion time. As a result, they are more likely to fill out the survey if they know how long it takes to complete the survey.
 
+## FINAL PROTOTYPE
 
 
+<img src="img/finalprototype7.png" width="200">
+Survey Sections (before user testing)		
 
+***
 
+<img src="img/finalprototype6.png" width="200">
+Survey Sections (after user testing)
 
+***
 
+<img src="img/finalprototype5.png" width="200">
+Image upload (before user testing)
 
+***
+
+<img src="img/finalprototype4.png" width="200">
+Image upload with example (and after user testing)
+
+***
+
+<img src="img/finalprototype3.png" width="200">
+Survey Info page (before user testing)
+
+***
+
+<img src="img/finalprototype2.png" width="200">
+Survey Info page (after user testing)
+
+***
+
+<img src="img/finalPrototype1.png" width="200">
+New “saved as draft” screen (after user testing)
+
+***
 
