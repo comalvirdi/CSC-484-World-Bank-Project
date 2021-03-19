@@ -181,12 +181,11 @@ During user testing, we uncovered a few challenges our users faced while using o
 ## FINAL PROTOTYPE
 
 
-<img src="img/finalprototype7.png" width="200">
-Survey Sections (before user testing)		
+<img src="img/finalprototype7.png" width="200"> 	
+Survey Sections (before user testing)                    
 
 ***
-
-<img src="img/finalprototype6.png" width="200">
+<img src="img/finalprototype6.png" width="200"> 
 Survey Sections (after user testing)
 
 ***
