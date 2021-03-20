@@ -75,7 +75,7 @@ Krishna Nathani is 18 years old and a senior in high school. She does not like l
 
 Krishna was able to complete the survey but described it as unpleasant and challenging to use. She also felt negative about the interface and aesthetics of the survey. She disliked that font sizes did not differentiate questions and question descriptions. Krishna also disliked the background image and called it “distracting.” She also stated it would be easier if the surveys collapse feature was instead a “jump-to section” feature allowing for easier navigation.
 
-## PERSONA
+### Persona
 <img src="img/Persona.jpeg">
 
 ## DESIGN REQUIREMENTS
