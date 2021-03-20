@@ -87,7 +87,7 @@ Krishna was able to complete the survey but described it as unpleasant and chall
 * Design that falls within accessibility guidelines (W3C)
 
 
-## EXPLANATION OF PROCESS
+## IDEATION PROCESS
 
 ### How Might We Questions
 
@@ -138,7 +138,9 @@ Low-fidelity wireframe sketches and a mood board consisting of competitive analy
 
 We are looking to learn about the different pain points that our users are struggling with in order to iterate back on the prototype based on the feedback we receive during testing.
 
-## EXPLANATION OF TESTING METHOD
+## TESTING
+
+### Explanation of Testing Method
 
 For our user testing, we will be doing moderated, remote usability tests with five candidates in total. We have selected moderated usability tests because we want to see if users can successfully complete key tasks and navigate the interface we designed for our survey tool. Our goals with these moderated usability tests are: 
 
@@ -159,23 +161,23 @@ After our users complete the usability tests, we will follow-up with these quest
 - Were there any challenges with navigating the interface?
 - How does this survey tool compare with others you may have used? 
 
-## SUMMARY OF TESTING RESULTS
+### Summary of Testing Results
 
 Through our five user tests, we found that the overall design of our survey tool was helpful to the users. We found that the main pain point for our users came from the ambiguous section overview page. Multiple users were unclear whether or not they needed to complete all sections and if there was a certain order they needed to be completed. Users also noted that questions requiring a photo upload were somewhat vague and requested follow-up information about how the photos should be taken. Users did state other than the photo upload that the questions were relatively easier to understand. Overall our users reported that completing this form was a lot less painful than most surveys sent to them. They liked the natural flow of the survey and the ability to navigate around the survey. Our users stated they preferred how our survey had sections separated rather than how ArcGis has collapsable sections and generally felt our tool was more manageable. 
 
-## DETAILED FINDINGS
+### Detailed Findings
 
 Our user interviews showed us both specific vulnerabilities and strengths with our survey tool prototype. When we asked our users to think aloud during our tests, some of the more positive comments were “I like the simplicity and aesthetic of the interface,” and, “I like how it feels easier to navigate and see the different sections, and that it tells me my progress.” Comments like these affirmed that our interface itself was satisfactory to users. We also received comments like “I wonder how long this survey is going to take?”, “Do I have to complete this in a specific order?”, and “I’m not sure how to answer this,” and these comments helped us identify what we needed to do next. From these comments, we realized our users needed more clarity when it came to the survey itself and desired more information for survey context as well. While doing our user tests, users spent significantly less time navigating the interface and reaching the surveys than they did on understanding and commenting on the surveys themselves. In addition, we also found our survey-tool is not as mistake-preventative as it should be because, during our user-tests, users would accidentally click the home-button and lose their progress while in the middle of the survey. Our users described this as potentially frustrating since surveys had the potential to be lengthy and a slip of their hand could cause them to lose their progress. We used an affinity diagram to categorize information we received from our user tests.
 
-## RECOMMENDATIONS
+### Recommendations
 
 Based on our feedback from user tests and analyzing our detailed findings, we were able to make five recommendations to our prototype to solve the problems our users ran into. Our first recommendation is to add clarifying instructions to the sections page within the survey to ensure users are not confused about the order in which questions must be answered and if all sections are required. Our second recommendation is to add example photos for questions that require a photo upload because users explained they lacked clarity on what the photos should look like.  Our third recommendation is to offer options to either advance directly to the next section and return all sections because our survey tool takes users back to the sections page whenever they complete a section instead of advancing directly to the next one; this would make the survey-taking portion smoother. Our fourth recommendation is to add a pop-up notification if the user decides to quit in the middle of a survey, asking if they would like to save their progress to avoid accidentally losing progress. Our fifth and final recommendation is to add a time estimate or additional progress bar to display how far the user is in the survey since each section can vary in the number of questions and may not give a more accurate estimate on the user’s progress. 
 
-## AFFINITY DIAGRAM
+### Affinity Diagram
 
 <img src="img/Affinity Diagram.png" width="600">
 
-## SECOND ROUND OF USER TESTING
+### Second Round of User Testing
 
 During user testing, we uncovered a few challenges our users faced while using our prototype including error prevention, a shortage of a clear path of instructions, and examples for specific questions. During our latest iteration, we added a few new features to our prototype to help our users overcome some of these challenges. Previously, in the School Safety Survey, we asked users to upload a photo of the school, but our page lacked clarity since it did not provide an example or specific instructions on how to take the photo. In our next iteration, we added a sample photo to guide users. Our users also mentioned they were unsure if survey sections needed to be filled out in a specific order. As a result, another feature we added for clarity was fading a section’s title color to show that it is “locked” until the previous section was completed to help the user understand the survey section order better. Our users also wanted us to improve error prevention to incase they automatically clicked the home button or back button on our survey by mistake, so we added an autosave notification to let them know their work was saved as a draft. A final change we made was adding in an estimated time to complete the survey for additional convenience to our users. The addition of the estimated time gives our users a sense of motivation if they know the survey’s approximate completion time. As a result, they are more likely to fill out the survey if they know how long it takes to complete the survey.
 
